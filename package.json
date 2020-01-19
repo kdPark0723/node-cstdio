@@ -1,0 +1,30 @@
+{
+  "name": "cstdio",
+  "version": "1.0.0",
+  "description": "C standard io library for node.js",
+  "main": "lib",
+  "file": [
+    "lib",
+    "test"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "C",
+    "IO",
+    "printf",
+    "scanf"
+  ],
+  "author": "Si-Yual Park",
+  "license": "MIT",
+  "homepage": "https://github.com/kdPark0723/node-cstdio",
+  "bugs": {
+    "url": "https://github.com/kdPark0723/node-cstdio/issues",
+    "email": "kdpark023@gmail.com"
+  },
+  "dependencies": {
+    "printf": "^0.5.2",
+    "scanf": "^1.1.1"
+  }
+}
