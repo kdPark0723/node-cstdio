@@ -30,10 +30,26 @@ fprintf(write_stream, format, ...args);
 
 ​    
 
+### sprintf
+
+```js
+sprintf(format, ...args);
+```
+
+​    
+
 ### scanf
 
 ```js
-scanf(format);
+scanf(format, ...args);
+```
+
+​    
+
+### sscanf
+
+```js
+scanf(buffer, format, ...args);
 ```
 
 ​    
@@ -42,7 +58,7 @@ scanf(format);
 
 See the following packages
 
-- printf, fprintf: https://www.npmjs.com/package/printf
+- printf: https://www.npmjs.com/package/printf
 - scanf: https://www.npmjs.com/package/scanf
 
 ​    
