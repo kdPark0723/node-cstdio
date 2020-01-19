@@ -1,7 +1,7 @@
 {
   "name": "cstdio",
-  "version": "1.0.0",
-  "description": "C standard io library for node.js",
+  "version": "1.0.1",
+  "description": "Implementation for C language's stdio for node.js",
   "main": "lib",
   "file": [
     "lib",
